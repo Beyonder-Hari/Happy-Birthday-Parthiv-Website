@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Beyonder-Hari/Happy-Birthday-Parthiv-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beyonder-Hari/Happy-Birthday-Parthiv-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title>Happy Birthday Parthiv</title>
+<style>
+h1{
+color: red;
+};
+</style>
+</head>
+<body>
+<h1>Happy birthday Parthiv</h1>
+<h4>Hey Parthiv! It's been a long time ya'know since we played games together through online and connecting with eachother over Marvel Stuff.
+ But I just wanna say is that it's been a great time with you and making our friendshop even more stronger day by day. 
+ And I want to tell you a many more happy returns of the day and hope you enjoyed your birthday. <br>I hope we can connect and continue playing games with our friends again!
+ And tell me if you watched the new marvel movie : Eternals.
+ <br> I enjoyed being your friend and hope that we can keep this bond long enough</h4>
+<h3> Happy Birthday Parthiv <br> - From Shri Hari</h3>
+<h3> P.S.- See this Video I Created For Your Birthday</h3>
+<iframe width="550" height="400" src="https://www.youtube.com/embed/XzbZFImFj9A">
+</iframe>
+</body>
+</html>
